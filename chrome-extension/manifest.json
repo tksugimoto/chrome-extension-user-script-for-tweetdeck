@@ -1,0 +1,16 @@
+{
+	"name": "user-script-for-tweetdeck",
+	"version": "0.1.0",
+	"manifest_version": 2,
+
+	"description": "TweetDeck用ユーザースクリプト",
+
+	"content_scripts": [{
+		"matches": [
+			"https://tweetdeck.twitter.com/*"
+		],
+		"js": [
+			"js/content_script.js"
+		]
+	}]
+}
