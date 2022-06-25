@@ -1,7 +1,7 @@
 {
 	"name": "user-script-for-tweetdeck",
 	"version": "0.1.0",
-	"manifest_version": 2,
+	"manifest_version": 3,
 
 	"description": "TweetDeck用ユーザースクリプト",
 
